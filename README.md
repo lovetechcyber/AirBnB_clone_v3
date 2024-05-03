@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-prince okwubali [Github](https://github.com/lovetechcyber) / [Twitter](https://twitter.com/lovetechcyber)  
+Prince Okwubali [Github](https://github.com/lovetechcyber) / [Twitter](https://twitter.com/lovetechcyber)  
 
 
 Second part of Airbnb: Joann Vuong
